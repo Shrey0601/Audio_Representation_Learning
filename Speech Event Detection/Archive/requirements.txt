@@ -1,0 +1,11 @@
+tensorflow
+keras
+librosa
+python_speech_features
+numpy
+scikit-learn
+pandas
+tqdm
+matplotlib
+joblib
+praat-textgrids
